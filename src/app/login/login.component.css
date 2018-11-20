@@ -1,0 +1,60 @@
+.modal-content{
+    background-color:palevioletred;
+    margin-top:10em;
+}
+.btn-link{
+    color:white;
+}
+.modal-heading h2{
+    color:#ffffff;
+}
+body{
+    background-image:url(https://i.ytimg.com/vi/DgtXWjd3H5s/maxresdefault.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:100%;
+    height:100vh;
+    overflow:auto;
+    
+}
+#btn1{
+    margin-left: 2em;
+}
+h2{
+    font-family:fantasy;
+    margin-top:2em;
+}
+hr
+{
+    background-color: #eee;
+    border: 0 none;
+    color: #eee;
+    height: 1px;
+}
+form{
+    margin-top:0em;
+}
+.input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.icon {
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+.input-field:focus {
+    border: 2px solid dodgerblue;
+}

@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "FirstName": "kamalee",
+      "LastName": "s",
+      "Password": "kamalee",
+      "Email": "kamaleeanbu@gmail.com"
+    },
+    {
+      "id": 2,
+      "FirstName": "kamal",
+      "LastName": "anbu",
+      "Password": "kamalee",
+      "Email": ""
+    },
+    {
+      "id": 3,
+      "FirstName": "DOM",
+      "LastName": "Window",
+      "Password": "browser",
+      "Email": "browser@gmail.com"
+    },
+    {
+      "FirstName": "DOM2",
+      "LastName": "Window2",
+      "Password": "browser2",
+      "Email": "browser2@gmail.com",
+      "id": 4
+    },
+    {
+      "Email": "aishwarya@gmail.com",
+      "FirstName": "Aishwarya",
+      "LastName": "A",
+      "Password": "aishwarya",
+      "id": 5
+    },
+    {
+      "Email": "",
+      "FirstName": "",
+      "LastName": "",
+      "Password": "",
+      "id": 6
+    },
+    {
+      "Email": "",
+      "FirstName": "",
+      "LastName": "",
+      "Password": "",
+      "id": 7
+    },
+    {
+      "Email": "a@g.com",
+      "FirstName": "Rhea",
+      "LastName": "k",
+      "Password": "msaf",
+      "id": 8
+    },
+    {
+      "Email": "ajnsja",
+      "FirstName": "sweatha",
+      "LastName": "s",
+      "Password": "s",
+      "id": 9
+    },
+    {
+      "Email": "",
+      "FirstName": "",
+      "LastName": "",
+      "Password": "",
+      "id": 10
+    },
+    {
+      "Email": "",
+      "FirstName": "",
+      "LastName": "",
+      "Password": "",
+      "id": 11
+    },
+    {
+      "Email": "hu",
+      "FirstName": "jhuf",
+      "LastName": "hbuh",
+      "Password": "hvy",
+      "id": 12
+    }
+  ],
+  "todo": [
+    {
+      "todoname": "kaml",
+      "id": 23
+    },
+    {
+      "todoname": "kss",
+      "id": 31
+    },
+    {
+      "todoname": "kama",
+      "id": 32
+    },
+    {
+      "todoname": "aish",
+      "id": 33
+    }
+  ]
+}
